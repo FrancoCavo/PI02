@@ -1,2 +1,0 @@
-# Ignorar archivos de configuración del entorno 
-Backup/

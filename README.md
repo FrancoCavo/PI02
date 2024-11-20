@@ -7,6 +7,7 @@ TABLA DE CONTENIDOS
 
 - Desarrollo EDA
 - Conclusiones
+- KPI
 - Documentos
 
 
@@ -73,7 +74,7 @@ Sabiendo el contexto inflacionario que se tiene en Argentina, para conocer el in
 
 Se puede observar que los ingresos en USD son fluctuantes.
 
-KPI PROPUESTOS
+KPI
 
 Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. (OBLIGATORIO)
 
@@ -92,4 +93,13 @@ CONCLUSIONES
 - Los ingresos medidos en una moneda extranjera (USD) son fluctuantes.
 
 DOCUMENTOS
+
+A continuacion se menciona la composicion del repositorio.
+
+- EDA.ipynb: Notebook con el contenido del analisas y limpieza de datos.
+- Dashboard: Contiene la presentacion/informe con datos interactivos en base al analisis realizado del EDA.
+- Raw data: Carpeta que contiene los archivos crudos para su lectura y posterior transformacion. Aca encontramos el archivo principal (Internet (Principal).xlsx) y el archivo con los datos del precio del dolar en el tiempo (dolar_historico.csv).
+- Procesed data: Todos los archivos generados a partir del EDA. Estos datos estan listos para su consumo.
+
+COMPLEMENTO
 

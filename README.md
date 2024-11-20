@@ -29,6 +29,12 @@ Tambien se observa que existe mucha diferencia entre la provincia con mas veloci
 
 - HOJA Totales VMD
 
+Esta hoja nos permite ver la evolucion del promedio de velocidad de bajada de internet en Argentina.
+
+Nos permite determinar que existe un aumento continuo a lo largo de los años en la velocidad promedio de bajada.
+
+- HOJA Accesos_tecnologia_localidad
+
 
 
 

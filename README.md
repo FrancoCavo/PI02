@@ -35,6 +35,12 @@ Nos permite determinar que existe un aumento continuo a lo largo de los años en
 
 - HOJA Accesos_tecnologia_localidad
 
+Se puede determinar a partir de estos datos las diferentes tecnologias existentes en Argentina para dar acceso a internet. 
+
+Ademas es posible determinar como es la distribucion de la cantidad de accesos para estas tecnologias, siendo las de mayor cantidad Cablemodem y Fibra Optica.
+
+- HOJA Totales Accesos Por Tecnología
+
 
 
 

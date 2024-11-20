@@ -41,6 +41,14 @@ Ademas es posible determinar como es la distribucion de la cantidad de accesos p
 
 - HOJA Totales Accesos Por Tecnología
 
+Fue posible determinar en esta hoja, la evolucion en el tiempo de las tecnologias (cantidad de accesos por cada una). 
+
+Como dato de interes, se observo que las tecnologias Cablemodem y Fibra optica son las que mas han crecido en los ultimos años, mientras que otras perdieron fuerza como ser la ADSL.
+
+Tambien es posible ver la evolucion de la cantidad de accesos en el tiempo. Estos tiene una tendencia a crecer a lo largo de los años.
+
+- HOJA Penetración-poblacion
+
 
 
 

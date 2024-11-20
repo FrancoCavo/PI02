@@ -61,11 +61,23 @@ Al igual que la hoja anterior, tiene un crecimiento constante en el tiempo. Las 
 
 - HOJA Penetracion-totales
 
+Estos datos contiene la misma informacion que dos hojas anteriores pero solo en el tiempo. Fue util para determinar como es la evolucion en el tiempo de estos porcentajes de accesos por habitante y por hogares. 
 
+Se pudo ver que ambas son crecientes.
+
+- HOJA Ingresos
+
+Contiene informacion de como fueron los ingresos en pesos a lo largo del tiempo. Se puede observar que en todos los periodos este valor aumenta considerablemente. 
+
+Sabiendo el contexto inflacionario que se tiene en Argentina, para conocer el ingreso a lo largo del tiempo, es recomendable hacerlo en una moneda mas estable. Se propone hacer una conversion a dolares (teniendo en cuenta el valor historico que se obtuvo a partir de los datos del Banco de la Nacion Argentina). 
+
+Se puede observar que los ingresos en USD son fluctuantes.
 
 
 CONCLUSIONES
 
+- Tecnologias predominantes: Cablemodem y Fibra Optica.
+- Provincias con mayores velocidades: 
 
 DOCUMENTOS
 

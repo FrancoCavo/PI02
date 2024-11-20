@@ -49,6 +49,12 @@ Tambien es posible ver la evolucion de la cantidad de accesos en el tiempo. Esto
 
 - HOJA Penetración-poblacion
 
+Indica el porcentaje de poblacion con acceso a internet (accesos cada 100 habitantes). 
+
+Esto nos permitio determinar como es la evolucion en el tiempo (tiende a aumentar), asi como tambien cuales son las provincias con un porcentaje mas bajo de accesos cada 100 habitantes: esto es util para saber a que provincias se puede apuntar un crecimiento (Formosa, Chaco, Santiago del Estero, etc).
+
+- HOJA Penetracion-hogares
+
 
 
 

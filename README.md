@@ -55,6 +55,12 @@ Esto nos permitio determinar como es la evolucion en el tiempo (tiende a aumenta
 
 - HOJA Penetracion-hogares
 
+Indica el porcentaje de hogares con acceso a internet (accesos cada 100 hogares). 
+
+Al igual que la hoja anterior, tiene un crecimiento constante en el tiempo. Las provincias con menos accesos cada 100 hogares son las mismas que la hoja anterior: (Formosa, Chaco, Santiago del Estero, etc).
+
+- HOJA Penetracion-totales
+
 
 
 

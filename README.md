@@ -75,6 +75,13 @@ Se puede observar que los ingresos en USD son fluctuantes.
 
 KPI PROPUESTOS
 
+Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. (OBLIGATORIO)
+
+Aumentar en un 1% la cantidad de accesos cada 100 de poblacion a nivel pais en un trimestre.
+
+Aumentar en un 1% la cantidad de accesos cada 100 hogares a nivel pais en un trimestre.
+
+Aumentar en un 3% la cantidad de accesos totales de internet para el proximo trimestre. 
 
 CONCLUSIONES
 

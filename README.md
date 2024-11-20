@@ -9,6 +9,7 @@ TABLA DE CONTENIDOS
 - Conclusiones
 - KPI
 - Documentos
+- Fuentes
 
 
 DESARROLLO EDA
@@ -101,5 +102,7 @@ A continuacion se menciona la composicion del repositorio.
 - Raw data: Carpeta que contiene los archivos crudos para su lectura y posterior transformacion. Aca encontramos el archivo principal (Internet (Principal).xlsx) y el archivo con los datos del precio del dolar en el tiempo (dolar_historico.csv).
 - Procesed data: Todos los archivos generados a partir del EDA. Estos datos estan listos para su consumo.
 
-COMPLEMENTO
+FUENTES
+
+Link de acceso a los datos principales: https://indicadores.enacom.gob.ar/datos-abiertos
 

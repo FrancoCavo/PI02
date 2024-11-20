@@ -73,11 +73,16 @@ Sabiendo el contexto inflacionario que se tiene en Argentina, para conocer el in
 
 Se puede observar que los ingresos en USD son fluctuantes.
 
+KPI PROPUESTOS
+
 
 CONCLUSIONES
 
 - Tecnologias predominantes: Cablemodem y Fibra Optica.
-- Provincias con mayores velocidades: 
+- Provincias con mayor promedio de velocidad de bajada: CABA, San Luis, Buenos Aires.
+- Provincias con mayor cantidad de accesos: Buenos Aires, CABA, Cordoba.
+- La evolucion creciente en el tiempo de la velocidad y cantidad de accesos (ya sea total, cada 100 habitantes u hogares) nos demuestra que el sector esta en constante crecimiento.
+- Los ingresos medidos en una moneda extranjera (USD) son fluctuantes.
 
 DOCUMENTOS
 
